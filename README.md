@@ -6,6 +6,12 @@ pip install cryptography
 pip install email-validator
 ```
 
+or
+
+```
+pip install -r requirements.txt
+```
+
 # Screen Shots
 ## Main
 ![Screenshot from 2021-07-12 20-00-12](https://user-images.githubusercontent.com/31927632/125327722-17b9bc00-e34c-11eb-8a3a-f6162b2827ff.png)
